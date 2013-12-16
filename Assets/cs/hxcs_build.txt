@@ -1,0 +1,206 @@
+/Users/highvision/Desktop/Haxe-Unity/haxe
+begin defines
+cs
+dce
+haxe3
+haxe_release
+haxe_ver
+hxcs
+no-compilation
+no_compilation
+sys
+true
+unity3d
+end defines
+begin defines_data
+cs=1
+dce=std
+haxe3=1
+haxe_release=1
+haxe_ver=3.01
+hxcs=1
+no-compilation=1
+no_compilation=1
+sys=1
+true=1
+unity3d=1
+end defines_data
+begin modules
+M unityEngine.GUIText
+M unityEngine.Vector4
+M unityEngine.QueueMode
+M cs.NativeArray
+M cs.internal.HxObject
+C haxe.lang.IHxObject
+C haxe.lang.HxObject
+C haxe.lang.DynamicObject
+C haxe.lang.IGenericObject
+C haxe.lang.Enum
+M unityEngine.TransparencySortMode
+M cs.Boot
+C cs.Boot
+M unityEngine.JointSpring
+M Std
+C Std
+M cs.internal.Exceptions
+C haxe.lang.HaxeException
+M haxe.ds.ObjectMap
+M MyClass
+C MyClass
+M unityEngine.NetworkView
+M cs.internal.Null
+C haxe.lang.Null
+M unityEngine.RenderBuffer
+M unityEngine.Light
+M Math
+C Math
+M unityEngine.NetworkPlayer
+M cs.system.reflection.ParameterInfo
+M unityEngine.Collider
+M haxe.Log
+C haxe.Log
+C haxe.Fun_ce30fb9c
+C haxe.Fun_d41d8cd9
+M unityEngine.AnimationCullingType
+M unityEngine.AnimationState
+M unityEngine.TextAnchor
+M unityEngine.FFTWindow
+M unityEngine.GUITexture
+M cs.internal.FieldLookup
+C haxe.lang.FieldLookup
+M haxe.PosInfos
+M unityEngine.NetworkStateSynchronization
+M unityEngine.TextAlignment
+M cs.system.Random
+M Type
+C ValueType
+C Type
+M unityEngine.JointMotor
+M haxe.ds.HashMap
+M unityEngine.AudioVelocityUpdateMode
+M EnumValue
+M unityEngine.AnimationEvent
+M unityEngine.CollisionDetectionMode
+M unityEngine.GUIElement
+M unityEngine.RenderTexture
+M unityEngine.ForceMode
+M StdTypes
+M Array
+C Array
+C Fun_d33f25a3
+C Fun_ebdb9599
+C Array
+M haxe.ds.StringMap
+M unityEngine.Keyframe
+M unityEngine.MaterialPropertyBlock
+M unityEngine.Rect
+M unityEngine.Flare
+M UnityHelper
+C UnityHelper
+C UnityHelperGO
+M unityEngine.Particle
+M unityEngine.Quaternion
+M unityEngine.YieldInstruction
+M unityEngine.Matrix4x4
+M cs.internal.Function
+C haxe.lang.Function
+C haxe.lang.VarArgsBase
+C haxe.lang.VarArgsFunction
+C haxe.lang.Closure
+M unityEngine.RigidbodyInterpolation
+M unityEngine.Vector3
+M unityEngine.PhysicMaterialCombine
+M String
+M cs.StringBuilder
+M unityEngine.Color
+M unityEngine.Component
+M unityEngine.WrapMode
+M unityEngine.Transform
+M cs.system.reflection.MethodBase
+M unityEngine.Space
+M unityEngine.FontStyle
+M unityEngine.Texture
+M cs.system.IConvertible
+M unityEngine.RenderTextureFormat
+M unityEngine.PrimitiveType
+M unityEngine.Vector2
+M unityEngine.CameraClearFlags
+M unityEngine.MonoBehaviour
+M unityEngine.ParticleEmitter
+M unityEngine.PhysicMaterial
+M Enum
+M unityEngine.LightRenderMode
+M unityEngine.LightShadows
+M unityEngine.Ray
+M StringTools
+C StringTools
+M cs.system.reflection.ConstructorInfo
+M haxe.Int64
+M unityEngine.Rigidbody
+M cs.system.Exception
+M unityEngine.Joint
+M Map
+M cs.internal.Iterator
+C haxe.lang.Iterator
+C haxe.lang.Iterator
+C haxe.lang.Iterable
+C haxe.lang.Iterable
+M unityEngine.FilterMode
+M unityEngine.AnimationClip
+M unityEngine.AudioRolloffMode
+M unityEngine.NetworkViewID
+M unityEngine.RenderTextureReadWrite
+M unityEngine.DepthTextureMode
+M unityEngine.Shader
+M cs.system.IFormatProvider
+M cs.system.reflection.MethodInfo
+M unityEngine.LightType
+M haxe.EnumTools
+M Reflect
+C Reflect
+M unityEngine.AudioSource
+M unityEngine.GameObject
+M unityEngine.TextureWrapMode
+M unityEngine.Animation
+M unityEngine.JointLimits
+M cs.internal.StringExt
+C haxe.lang.StringExt
+C haxe.lang.StringRefl
+M unityEngine.RigidbodyConstraints
+M unityEngine.SendMessageOptions
+M cs.internal.Runtime
+C haxe.lang.Runtime
+E haxe.lang.EmptyObject
+M cs.Lib
+C cs.Lib
+M cs.system.Array
+M unityEngine.AnimationBlendMode
+M unityEngine.Camera
+M unityEngine.Bounds
+M unityEngine.PlayMode
+M unityEngine.AnimationCurve
+M cs.system.Activator
+M unityEngine.ConstantForce
+M cs.system.Type
+M unityEngine.HideFlags
+M unityEngine.Font
+M unityEngine.HingeJoint
+M unityEngine.RaycastHit
+M Class
+M cs.system.Math
+M unityEngine.AudioClip
+M unityEngine.Behaviour
+M unityEngine.Renderer
+M cs.StdTypes
+M unityEngine.Object
+M unityEngine.RenderingPath
+M unityEngine.Coroutine
+M unityEngine.Time
+M unityEngine.Material
+M StringBuf
+C StringBuf
+end modules
+begin resources
+end resources
+begin libs
+end libs
