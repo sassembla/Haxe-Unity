@@ -1,0 +1,5 @@
+-D no-compilation
+-lib unity3d
+-cp src/
+-cs ../Assets/cs
+MyClass
